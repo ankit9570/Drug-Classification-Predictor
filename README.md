@@ -43,8 +43,6 @@ pip install -r requirements.txt
 Run App
 streamlit run app.py
 
-UI screenshot here
-<img width="1348" height="592" alt="image" src="https://github.com/user-attachments/assets/fc95908e-bb39-477c-9754-e9a8167205c4" />
 
 Author
 Ankit kumar Yadav
